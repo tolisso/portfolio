@@ -38,7 +38,7 @@ Java Junior
 
 Разрабатывали микросервисы для работы самописной JIRA использующейся внутри компании. Делал реализацию бизнес логики по учету задач, оценке команд по метрикам.
 
-Тэги: Spring Boot, Spring Data, Spring Web, Spring Security, Spring Core, Spring Actuator, PostgreSQL, Java 8, Kafka, Mockito, Docker, Jenkins, Kubernetes 
+Технологии: *Spring Boot, Spring Data, Spring Web, Spring Security, Spring Core, Spring Actuator, PostgreSQL, Java 8, Kafka, Mockito, Docker, Jenkins, Kubernetes*
 
 ### Сбер
 
@@ -47,7 +47,7 @@ Kotlin Middle
 
 Разрабатывали высоконагруженную мастер-систему для СберДевайсов. Наши сервисы обеспечивали контроль всей информации и общей бизнес логики по девайсам. В частности к чему я имел отношение: вторизация пользователей и девайсов, backend часть передачи информации на устройства через WebSocket-ы, backend админ панели для тестирования устройстройств и устрания бизнес дефектов в production.
 
-Тэги: Kotlin, Ktor, Kodein, JOOQ, Selenium, Mockito, Kafka, PostgreSQL, Kibana, Grapghana, Docker, Jenkins, Kubernetes, Red Hat OpenShift
+Технологии: *Kotlin, Ktor, Kodein, JOOQ, Selenium, Mockito, Kafka, PostgreSQL, Kibana, Grapghana, Docker, Jenkins, Kubernetes, Red Hat OpenShift*
 
 ## Проекты
 
