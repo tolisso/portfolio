@@ -42,6 +42,14 @@ Kotlin Middle
 
 ### Коллаборатор в opensource DB Otterbrix
 
-Все PR производились с использованием
+Все PR производились с использованием Claude
+
+- [[PR]](https://github.com/otterbrix/otterbrix/pull/468) Реализация таблиц с динамической схемой
+- [[PR]](https://github.com/otterbrix/otterbrix/pull/477) Реализация оптимизации по чтения только тех колонок таблиц которые используются в запросе
+- [[PR]](https://github.com/otterbrix/otterbrix/pull/483) Изменение пайплайна исполнения запросов - теперь между операторами данные передаются частями котлорые можно распараллелить
+- [[PR]](https://github.com/otterbrix/otterbrix/pull/488) Оптимизация оператора Distinct
+- [[PR]](https://github.com/otterbrix/otterbrix/pull/489) Реализация бенчмарка на производительность JSONBench
+- [[PR]](https://github.com/otterbrix/otterbrix/pull/497) Реализация HashJoin
+- [[PR]](https://github.com/otterbrix/otterbrix/pull/499) Операторы JSONB для работы с динамическими таблицами
 
 
