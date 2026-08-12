@@ -5,7 +5,7 @@
 Малько Егор Александрович - 25 лет \
 Город: Санкт-Петербург \
 Гражданство: РФ \
-Образование: ИТМО ФИТиП (бакалавриат+магистратура)
+Образование: ИТМО ФИТиП (бакалавриат и магистратура)
 
 ## Достижения
 
@@ -18,7 +18,8 @@
 - Математика - 98 баллов
 - Русский Язык - 87 баллов
 
-Имею сертификат - *Oracle Certified Professional: Java SE 11 Developer*
+Cертификаты:
+- *Oracle Certified Professional: Java SE 11 Developer*
 
 ## Опыт работы
 ### Диасофт
@@ -40,7 +41,7 @@ Kotlin Middle
 
 ## Проекты
 
-### Коллаборатор базы данных Otterbrix
+### 1. Коллаборатор базы данных Otterbrix
 
 Все PR производились с использованием Claude
 
@@ -52,8 +53,12 @@ Kotlin Middle
 - [[PR]](https://github.com/otterbrix/otterbrix/pull/497) Реализация HashJoin
 - [[PR]](https://github.com/otterbrix/otterbrix/pull/499) Операторы JSONB для работы с динамическими таблицами
 
-### Инструмент по построению дорожных систем
+### 2. Инструмент по построению дорожных систем
 
-Ссылка на репозиторий
+[Ссылка на репо](https://github.com/tolisso/car2)
+
+https://github.com/user-attachments/assets/18e90bdf-53b9-49a6-b7e6-a84e6518cb99
+
+
 
 
