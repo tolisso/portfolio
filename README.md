@@ -78,7 +78,21 @@ https://github.com/user-attachments/assets/be0d2cdf-c3ab-4d9b-8e2e-efb32a4522d0
 Пример кода:
 
 ```
+// Переменные
+a = 10
+b = 20
+c = a + b
+print(c)  // 30
 
+// Составное присваивание
+c += 5
+print(c)  // 35
+
+// Арифметика
+x = 100
+y = 25
+result = x / y + 10
+print(result)  // 14
 ```
 
 [Ссылка на репо](https://github.com/tolisso/easy-lang)
