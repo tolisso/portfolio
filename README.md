@@ -71,3 +71,14 @@ https://github.com/user-attachments/assets/18e90bdf-53b9-49a6-b7e6-a84e6518cb99
 
 https://github.com/user-attachments/assets/be0d2cdf-c3ab-4d9b-8e2e-efb32a4522d0
 
+### 4. Простенький язык программирования
+
+Простенький язык программирования. Компилятор на языке Kotlin с использованием Antlr и LLVM.
+
+Пример кода:
+
+```
+
+```
+
+[Ссылка на репо](https://github.com/tolisso/easy-lang)
