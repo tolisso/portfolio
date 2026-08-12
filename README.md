@@ -67,9 +67,9 @@ Kotlin Middle
 
 Простенький инструмент для построения дорог (как в SimCity). Формулы и систему для корректного построения придумывал сам.
 
-[Ссылка на репо](https://github.com/tolisso/car2)
-
 https://github.com/user-attachments/assets/18e90bdf-53b9-49a6-b7e6-a84e6518cb99
+
+[Ссылка на репо](https://github.com/tolisso/car2)
 
 ### 3. ИИ машин без врезаний друг в друга
 
@@ -77,9 +77,9 @@ https://github.com/user-attachments/assets/18e90bdf-53b9-49a6-b7e6-a84e6518cb99
 
 Систему придумал сам, позже оказалось что она была изобретена еще в нулевых.
 
-[Ссылка на репо](https://github.com/tolisso/car4)
-
 https://github.com/user-attachments/assets/be0d2cdf-c3ab-4d9b-8e2e-efb32a4522d0
+
+[Ссылка на репо](https://github.com/tolisso/car4)
 
 ### 4. Простенький язык программирования
 
