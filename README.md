@@ -23,4 +23,8 @@ Kotlin Middle
 
 Разрабатывали высоконагруженную мастер-систему для СберДевайсов. Наши сервисы обеспечивали контроль всей информации и общей бизнес логики по девайсам. В частности к чему я имел отношение: вторизация пользователей и девайсов, backend часть передачи информации на устройства через WebSocket-ы, backend админ панели для тестирования устройстройств и устрания бизнес дефектов в production.
 
-Тэги: Kotlin, Ktor, Kodein, Mockito, Kafka, PostgreSQL, Kibana, Grapghana, Docker, Jenkins, Kubernetes, Red Hat OpenShift
+Тэги: Kotlin, Ktor, Kodein, JOOQ, Selenium, Mockito, Kafka, PostgreSQL, Kibana, Grapghana, Docker, Jenkins, Kubernetes, Red Hat OpenShift
+
+## Pet Проекты
+
+
