@@ -40,7 +40,7 @@ Kotlin Middle
 
 ## Проекты
 
-### Коллаборатор в opensource DB Otterbrix
+### Коллаборатор базы данных Otterbrix
 
 Все PR производились с использованием Claude
 
