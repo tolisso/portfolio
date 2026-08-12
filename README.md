@@ -1,6 +1,6 @@
 # Портофолио
 
-## Оглавление
+### Оглавление
 - [О себе](https://github.com/tolisso/portfolio/#%D0%BE-%D1%81%D0%B5%D0%B1%D0%B5)
 - [Достижения](https://github.com/tolisso/portfolio/#%D0%B4%D0%BE%D1%81%D1%82%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F)
 - [Опыт работы](https://github.com/tolisso/portfolio/#%D0%BE%D0%BF%D1%8B%D1%82-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B)
@@ -9,8 +9,8 @@
 - [Pet Проект: ИИ машин без врезаний друг в друга](https://github.com/tolisso/portfolio/#3-%D0%B8%D0%B8-%D0%BC%D0%B0%D1%88%D0%B8%D0%BD-%D0%B1%D0%B5%D0%B7-%D0%B2%D1%80%D0%B5%D0%B7%D0%B0%D0%BD%D0%B8%D0%B9-%D0%B4%D1%80%D1%83%D0%B3-%D0%B2-%D0%B4%D1%80%D1%83%D0%B3%D0%B0)
 - [Pet Проект: Простенький язык программирования](https://github.com/tolisso/portfolio/#4-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%B5%D0%BD%D1%8C%D0%BA%D0%B8%D0%B9-%D1%8F%D0%B7%D1%8B%D0%BA-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
 
-
-## О себе
+---
+### О себе
 
 Малько Егор Александрович \
 25 лет 
@@ -21,7 +21,8 @@
 GitHub: [tolisso](https://github.com/tolisso) \
 Telegram: @emalko
 
-## Достижения
+---
+### Достижения
 
 Олимпиады:
 - Московская Олимпиада по Информатике - Победитель
@@ -35,7 +36,8 @@ Telegram: @emalko
 Cертификаты:
 - *Oracle Certified Professional: Java SE 11 Developer*
 
-## Опыт работы
+---
+### Опыт работы
 ### Диасофт
 2 года \
 Java Junior
@@ -53,11 +55,15 @@ Kotlin Middle
 
 Технологии: *Kotlin, Ktor, Kodein, JOOQ, Selenium, Mockito, Kafka, PostgreSQL, Kibana, Grapghana, Docker, Jenkins, Kubernetes, Red Hat OpenShift*
 
-## Проекты
+---
+
+### Проекты
 
 Все проекты далее делались с использованием ИИ (Claude, Cursor)
 
-## 1. Коллаборатор в базе данных Otterbrix
+---
+
+### 1. Коллаборатор в базе данных Otterbrix
 
 - [[PR]](https://github.com/otterbrix/otterbrix/pull/468) Реализация таблиц с динамической схемой
 - [[PR]](https://github.com/otterbrix/otterbrix/pull/477) Реализация оптимизации по чтения только тех колонок таблиц которые используются в запросе
@@ -67,7 +73,8 @@ Kotlin Middle
 - [[PR]](https://github.com/otterbrix/otterbrix/pull/497) Реализация HashJoin
 - [[PR]](https://github.com/otterbrix/otterbrix/pull/499) Операторы JSONB для работы с динамическими таблицами
 
-## 2. Инструмент по построению дорожных систем
+---
+### 2. Инструмент по построению дорожных систем
 
 Простенький инструмент для построения дорог (как в SimCity). Формулы и систему для корректного построения придумывал сам.
 
@@ -75,7 +82,8 @@ https://github.com/user-attachments/assets/18e90bdf-53b9-49a6-b7e6-a84e6518cb99
 
 [Ссылка на репо](https://github.com/tolisso/car2)
 
-## 3. ИИ машин без врезаний друг в друга
+---
+### 3. ИИ машин без врезаний друг в друга
 
 Математическая система, в которой машины ездят по дорогам и не врезаются друг в друга. При этом машины не знают как поведут себя другие участники дорожного движения и сами оценивают риски. 
 
@@ -85,7 +93,8 @@ https://github.com/user-attachments/assets/be0d2cdf-c3ab-4d9b-8e2e-efb32a4522d0
 
 [Ссылка на репо](https://github.com/tolisso/car4)
 
-## 4. Простенький язык программирования
+---
+### 4. Простенький язык программирования
 
 Простенький язык программирования. Компилятор на языке Kotlin с использованием Antlr и LLVM.
 
