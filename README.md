@@ -69,7 +69,7 @@ Kotlin Middle
 
 - [[PR]](https://github.com/otterbrix/otterbrix/pull/468) Реализация таблиц с динамической схемой
 - [[PR]](https://github.com/otterbrix/otterbrix/pull/477) Реализация оптимизации по чтения только тех колонок таблиц которые используются в запросе
-- [[PR]](https://github.com/otterbrix/otterbrix/pull/483) Изменение пайплайна исполнения запросов - теперь между операторами данные передаются частями котлорые можно распараллелить
+- [[PR]](https://github.com/otterbrix/otterbrix/pull/483) Изменение пайплайна исполнения запросов - теперь между операторами данные передаются частями которые можно распараллелить
 - [[PR]](https://github.com/otterbrix/otterbrix/pull/488) Оптимизация оператора Distinct
 - [[PR]](https://github.com/otterbrix/otterbrix/pull/489) Реализация бенчмарка на производительность JSONBench
 - [[PR]](https://github.com/otterbrix/otterbrix/pull/497) Реализация HashJoin
