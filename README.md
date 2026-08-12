@@ -13,7 +13,7 @@
 - Московская Олимпиада по Информатике - Победитель
 - Заключительный этап Всероссийской Олимпиады по Информатике - Участник от сборной Москвы  
 
-ЕГЭ
+ЕГЭ:
 - Информатика - 100 баллов
 - Математика - 98 баллов
 - Русский Язык - 87 баллов
@@ -38,6 +38,10 @@ Kotlin Middle
 
 Тэги: Kotlin, Ktor, Kodein, JOOQ, Selenium, Mockito, Kafka, PostgreSQL, Kibana, Grapghana, Docker, Jenkins, Kubernetes, Red Hat OpenShift
 
-## Pet Проекты
+## Проекты
+
+### Коллаборатор в opensource DB Otterbrix
+
+Все PR производились с использованием
 
 
